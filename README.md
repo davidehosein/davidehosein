@@ -4,7 +4,7 @@ I am a technology enthusiast with an interest in Data Science, IT and Python. I 
 
 Here are my statistics on GitHub:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidehosein)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidehosein)]
 
 ## Technology Skills
 * 🐍 Python
