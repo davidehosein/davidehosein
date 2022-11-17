@@ -9,7 +9,7 @@ I am a technology enthusiast with an interest in Data Science, IT and Python. I 
 * **SQL** 
 * 📊 **Data Visualization**: Tableau, Microsoft Power BI
 * **Version Control and Collaboration**: Git, GitHub
-* 
+
 ## Hobbies / Interests:
 * 🎥**Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
 * 📺 **TV Series**: Stranger Things, Breaking Bad, Game of Thrones
