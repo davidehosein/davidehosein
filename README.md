@@ -1,5 +1,9 @@
 # Hi there 👋, I'm David Hosein.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
+</p>
+
 I am a technology enthusiast with an interest in Data Science, IT and Python. I enjoy learning about new tools and technologies that can assist me with acheiving my goals. Also, I like to use Python for general scripting and task automation.
 
 ## Technology Skills
