@@ -27,3 +27,7 @@ I am a technology enthusiast with an interest in Data Analytics, IT and Python. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidehosein&theme=transparent&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidehosein)
+
+![](https://komarev.com/ghpvc/?username=davidehosein&color=brightgreen)
+
+<a href="https://github.com/davidehosein?tab=followers"><img src="https://img.shields.io/github/followers/davidehosein?label=Followers&style=social" alt="GitHub Badge"></a>
