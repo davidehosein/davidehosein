@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
 </p>
 
-I am a technology enthusiast with an interest in Data Science, IT and Python. I enjoy learning about new tools and technologies that can assist me with acheiving my goals. Also, I like to use Python for general scripting and task automation.
+I am a technology enthusiast with an interest in Data Analytics, IT and Python. I enjoy learning about new tools and technologies that can assist me with acheiving my goals. Also, I am quite proficient in Python for general scripting and task automation.
 
 ## Technology Skills
 * 🐍 **Python**: Pandas, Matplotlib, Seaborn, Scikit-Learn, Requests, BeautifulSoup
 * 💻 **Linux**: Bash, Terminal
 * 📓 **Jupyter Notebooks**
-* **SQL** 
+* 🧾 **SQL** 
 * 📊 **Data Visualization**: Tableau, Microsoft Power BI
 * 🤝 **Version Control and Collaboration**: Git, GitHub
 
