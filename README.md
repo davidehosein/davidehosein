@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
 </p>
 
-I am a technology enthusiast with an interest in Data Analytics, IT and Python. I enjoy learning about new tools and technologies that can assist me with acheiving my goals.
+Hello, my name is David Hosein and I am from Trinidad and Tobago. I am a technology enthusiast with an interest in Cybersecurity, Data Analytics, IT and Python. I enjoy learning about new tools and technologies that can assist me with acheiving my goals.
 
 Also, I am quite proficient in Python for general scripting and task automation.
 
@@ -19,7 +19,7 @@ Also, I am quite proficient in Python for general scripting and task automation.
 ## Hobbies / Interests:
 * 🎥 **Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
 * 📺 **TV Series**: Stranger Things, Breaking Bad, Game of Thrones
-* 🎵 **Music**: 80s, Synthwave, EDM
+* 🎵 **Music**: 80s, Synthwave, EDM, Coldplay
 * 🎮 **Video Games**: Doom (Retro and Modern), GTA, PubG, Minecraft
 * 📚 **Reading**: Tutorials, Articles
 * 🎞 **Youtube**: Tutorials, Informational Videos, Entertainment
@@ -33,7 +33,7 @@ Also, I am quite proficient in Python for general scripting and task automation.
 ![](https://komarev.com/ghpvc/?username=davidehosein&color=brightgreen)
 <a href="https://github.com/davidehosein?tab=followers"><img src="https://img.shields.io/github/followers/davidehosein?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## Contact me at:
+## Connect With Me:
 
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][2]
