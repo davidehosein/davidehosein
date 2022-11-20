@@ -10,7 +10,7 @@ Also, I am quite proficient in Python for general scripting and task automation.
 
 ## Technology Skills
 * 🐍 **Python**: Pandas, Matplotlib, Seaborn, Scikit-Learn, Requests, BeautifulSoup
-* 💻 **Linux**: Bash, Terminal
+* 💻 **Linux**: Shell Scripting, Terminal
 * 📓 **Jupyter Notebooks**
 * 🧾 **SQL** 
 * 📊 **Data Visualization**: Tableau, Microsoft Power BI
@@ -33,7 +33,7 @@ Also, I am quite proficient in Python for general scripting and task automation.
 ![](https://komarev.com/ghpvc/?username=davidehosein&color=brightgreen)
 <a href="https://github.com/davidehosein?tab=followers"><img src="https://img.shields.io/github/followers/davidehosein?label=Followers&style=social" alt="GitHub Badge"></a>
 
-## Connect With Me:
+## Connect With Me
 
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][2]
