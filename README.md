@@ -19,7 +19,7 @@ Also, I am quite proficient in Python for general scripting and task automation.
 * 🎥 **Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
 * 📺 **TV Series**: Stranger Things, Breaking Bad, Game of Thrones
 * 🎵 **Music**: 80s, 90s, Synthwave, EDM, Coldplay
-* 🎮 **Video Games**: Doom (Retro and Modern), GTA, PUBG, Minecraft
+* 🎮 **Video Games**: Doom (Classic and Modern), GTA, PUBG, Minecraft
 * 📚 **Reading**: Tutorials, Articles
 * 🎞 **Youtube**: Tutorials, Informational Videos, Entertainment
  
