@@ -4,9 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
 </p>
 
-Hello, my name is David Hosein and I am from Trinidad and Tobago. I am a technology enthusiast with an interest in Business Analytics, Data Analytics, Data Engineering, Data Science and Machine Learning. I enjoy learning about new tools and technologies that can assist me with acheiving my goals.
+Hello, my name is David Hosein and I'm from Trinidad and Tobago. I'm a data and technology enthusiast with an interest in Business Analytics, Data Analytics, Data Engineering, Data Science and Machine Learning. I enjoy learning about new tools and technologies that can assist me with acheiving my goals.
 
-Also, I am quite proficient in Python for general scripting and task automation.
+Also, I am moderately proficient in Python for general scripting and task automation.
 
 ## Technology Skills
 * 🐍 **Python**: NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Requests, BeautifulSoup, Selenium, RegEx, OS
