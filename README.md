@@ -29,6 +29,9 @@ Also, I am quite proficient in Python for general scripting and task automation.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidehosein&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=davidehosein&color=brightgreen)
+<a href="https://github.com/davidehosein?tab=followers"><img src="https://img.shields.io/github/followers/davidehosein?label=Followers&style=social" alt="GitHub Badge"></a>
+
 ## Connect With Me
 
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][1]
