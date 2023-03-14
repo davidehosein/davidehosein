@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
 </p>
 
-Hello, my name is David Hosein and I'm from Trinidad and Tobago. I'm a data and technology enthusiast with an interest in Business Analytics, Data Analytics, Data Engineering, Data Science and Machine Learning. I enjoy learning about new tools and technologies that can assist me with acheiving my goals.
+Hello, my name is David Hosein and I'm from Trinidad and Tobago. I'm a technology enthusiast with an interest in Business Intelligence, Data Analytics, Data Engineering, Data Science and Machine Learning. I enjoy learning about new tools and technologies that can assist me with acheiving my goals.
 
 Also, I am moderately proficient in Python (including OOP concepts) for general scripting and task automation.
 
@@ -19,7 +19,7 @@ Also, I am moderately proficient in Python (including OOP concepts) for general 
 * 🎥 **Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
 * 📺 **TV Series**: Stranger Things, Breaking Bad, Game of Thrones
 * 🎵 **Music**: 80s, 90s, Synthwave, EDM, Coldplay
-* 🎮 **Video Games**: Doom (Classic and Modern), GTA, PUBG, Minecraft
+* 🎮 **Video Games**: Doom (classic and modern), GTA, PUBG, Minecraft
 * 📚 **Reading**: Tutorials, Articles
 * 🎞 **Youtube**: Tutorials, Informational Videos, Entertainment
  
