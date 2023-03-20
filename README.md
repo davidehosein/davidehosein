@@ -4,18 +4,43 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
 </p>
 
-Hello, my name is David Hosein and I'm from Trinidad and Tobago. I'm a technology enthusiast with an interest in Business Intelligence, Data Analytics, Data Engineering, Data Science and Machine Learning. I enjoy learning about new tools and technologies that can assist me with acheiving my goals.
+Hello, my name is David Hosein and I'm from Trinidad and Tobago. I'm a data and technology enthusiast with an interest in the following areas:
 
-Also, I am moderately proficient in Python (including OOP concepts) for general scripting and task automation.
+* **Business Intelligence**
+* **Data Analytics**
+* **Data Engineering**
+* **Data Science**
+* **Machine Learning**
 
-## Technology Skills
-* 🐍 **Python**: NumPy, SciPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Requests, BeautifulSoup, Selenium, RegEx, OS
-* 💻 **Linux**: Bash, Terminal
-* 🧾 **SQL**: MySQL, PostgreSQL, Microsoft SQL Server
-* 📊 **Data Visualization**:  Microsoft Power BI, Tableau
-* 🤝 **Version Control and Collaboration**: Git, GitHub
+Some of my qualities include:
 
-## Hobbies / Interests:
+* **Highly analytical with an inquisitive mindset.**
+* **Strong emphasis on team collaboration.**
+* **Enjoys solving problems and developing creative solutions.**
+* **Constantly learning new technologies that can assist me with achieving my objectives.**
+* **Persistency in delivering effective solutions.**
+
+I am moderately proficient in the Python programming language (including OOP concepts) for general scripting and task automation, with a specific focus on the following libraries:
+
+* **NumPy** (For utilizing high performance arrays)
+* **SciPy** (For performing scientific computations)
+* **Pandas** (For data cleaning, manipulation and analysis)
+* **Matplotlib** (For data visualization)
+* **Seaborn** (For data visualization)
+* **Scikit-Learn** (For implementing machine learning algorithms such as Regression, Classification and Clustering models)
+* **Requests** (For obtaining the HTML content of a webpage as well as sending GET, POST, PUT and DELETE requests)
+* **BeautifulSoup** (For web scraping)
+* **RegEx** (For searching strings using regular expression patterns)
+* **OS** (For interacting with the operating system)
+
+Also, I am knowledegable in other areas such as:
+
+* 💻 **Bash Scripting and Linux Terminal**: 
+* 🧾 **Querying SQL databases such as: MySQL, PostgreSQL and Microsoft SQL Server**
+* 📊 **Data Visualization software such as: Power BI and Tableau for creating visualizations, reports and dashboards**
+* 🤝 **Troubleshooting and diagnosing hardware/software issues.**
+
+## Hobbies/Interests:
 * 🎥 **Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
 * 📺 **TV Series**: Stranger Things, Breaking Bad, Game of Thrones
 * 🎵 **Music**: 80s, 90s, Synthwave, EDM, Coldplay
