@@ -36,7 +36,7 @@ I am moderately proficient in the Python programming language (including OOP con
 Also, I am knowledegable in other areas such as:
 
 * 💻 **Bash Scripting** and the **Linux Terminal**
-* 🗄 Interacting with **SQL** databases such as: **MySQL**, **PostgreSQL** and **Microsoft SQL Server**
+* 🗄 Querying **SQL** databases such as: **MySQL**, **PostgreSQL** and **Microsoft SQL Server**
 * 📊 **Data Visualization software** such as: **Power BI** and **Tableau** for creating visualizations, reports and dashboards
 * 🤝 **Version Control** and **Collaboration** using **Git/GitHub**
 * 🔧 **Troubleshooting** and **diagnosing** hardware/software issues
