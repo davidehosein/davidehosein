@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" />
 </p>
 
-Hello, my name is David Hosein and I'm from Trinidad and Tobago. I'm a data and technology enthusiast with an interest in the following areas:
+Hello, my name is David Hosein and I'm from Trinidad and Tobago. 
+
+I'm a **data** and **technology** enthusiast with an interest in the following areas:
 
 * **Business Intelligence**
 * **Data Analytics**
@@ -12,13 +14,13 @@ Hello, my name is David Hosein and I'm from Trinidad and Tobago. I'm a data and 
 * **Data Science**
 * **Machine Learning**
 
-Some of my qualities include:
+Within the past few years of exploring my passion for technology, I have developed the following qualities:
 
-* **Highly analytical with an inquisitive mindset.**
-* **Strong emphasis on team collaboration.**
-* **Enjoys solving problems and developing creative solutions.**
-* **Constantly learning new technologies that can assist me with achieving my objectives.**
-* **Persistency in delivering effective solutions.**
+* **Analytical and logical reasoning**
+* **Collaborative teamwork and communication**
+* **Solving problems by developing creative solutions**
+* **Desire of learning new technologies that are relevant to my objectives**
+* **Persistence in delivering effective solutions.**
 
 I am moderately proficient in the Python programming language (including OOP concepts) for general scripting and task automation, with a specific focus on the following libraries:
 
@@ -33,7 +35,7 @@ I am moderately proficient in the Python programming language (including OOP con
 * **RegEx** (For searching strings using regular expression patterns)
 * **OS** (For interacting with the operating system)
 
-Also, I am knowledegable in other areas such as:
+I have knowledge in other areas such as:
 
 * 💻 **Bash Scripting** and the **Linux Terminal**
 * 🗄 Querying **SQL** databases such as: **MySQL**, **PostgreSQL** and **Microsoft SQL Server**
