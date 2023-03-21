@@ -18,7 +18,7 @@ Within the past few years of exploring my passion for technology, I have develop
 
 * **Analytical and logical reasoning**
 * **Collaborative teamwork and communication**
-* **Solving problems by developing creative solutions**
+* **Problem solving by developing creative solutions**
 * **Desire of learning new technologies that are relevant to my objectives**
 * **Persistence in delivering effective solutions**
 
