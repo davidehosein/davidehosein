@@ -35,7 +35,7 @@ I am moderately proficient in the **Python** programming language (including OOP
 * **RegEx** (For searching strings using regular expression patterns)
 * **OS** (For interacting with the operating system)
 
-I have knowledge in other areas such as:
+I am knowledgeable in other areas such as:
 
 * 💻 **Bash Scripting** and the **Linux Terminal**
 * 🗄 Querying **SQL** databases such as: **MySQL**, **PostgreSQL** and **Microsoft SQL Server**
