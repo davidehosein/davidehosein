@@ -19,7 +19,7 @@ Within the past few years of exploring my passion for technology, I have develop
 * **Analytical and logical reasoning**
 * **Collaborative teamwork and communication**
 * **Problem solving by developing creative solutions**
-* **Desire of learning new technologies that are relevant to my objectives**
+* **Desire of learning new software and technologies that are relevant to my objectives**
 * **Persistence in delivering effective solutions**
 
 I am moderately proficient in the **Python** programming language (including OOP concepts) for **general scripting** and **task automation**, with a specific focus on the following libraries:
