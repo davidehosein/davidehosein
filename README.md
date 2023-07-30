@@ -37,6 +37,7 @@ I am moderately proficient in the **Python** programming language (including OOP
 
 I am knowledgeable in other areas such as:
 
+* 📓 Developing and presenting interactive code-based notebooks using **Jupyter Notebooks**
 * 💻 **Bash Scripting** and the **Linux Terminal**
 * 🗄 Querying **SQL** databases such as: **MySQL**, **PostgreSQL** and **Microsoft SQL Server**
 * 📊 **Data Visualization software** such as: **Power BI** and **Tableau** for creating visualizations, reports and dashboards
