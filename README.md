@@ -30,8 +30,6 @@ I am moderately proficient in the **Python** programming language (including OOP
 * **Scikit-Learn** (For implementing machine learning algorithms such as Regression, Classification and Clustering models)
 * **Requests** (For obtaining the HTML content of a webpage as well as sending GET, POST, PUT and DELETE requests)
 * **BeautifulSoup** (For web scraping)
-* **RegEx** (For searching strings using regular expression patterns)
-* **OS** (For interacting with the operating system)
 
 I am knowledgeable in other areas such as:
 
