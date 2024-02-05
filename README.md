@@ -6,11 +6,7 @@
 
 Hello, my name is David Hosein and I'm from Trinidad and Tobago. 
 
-I'm a **data** and **technology** enthusiast with an interest in the following areas:
-
-* **Data Analytics**
-* **Data Engineering**
-* **Data Science**
+I am a **Junior Data Analyst** with over 1 year of experience in developing complex **business intelligence** solutions for improving business processes.
 
 Within the past few years of exploring my passion for technology, I have developed the following qualities:
 
