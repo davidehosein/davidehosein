@@ -16,7 +16,7 @@ I am moderately proficient in the **Python** programming language for **general 
 * **Matplotlib** (For data visualization)
 * **Seaborn** (For data visualization)
 * **Scikit-Learn** (For implementing machine learning algorithms such as Regression, Classification and Clustering models)
-* **Requests** (For obtaining the HTML content of a webpage as well as sending GET, POST, PUT and DELETE requests)
+* **Requests** (For sending HTTP requests)
 * **BeautifulSoup** (For web scraping)
 
 I am knowledgeable in other areas such as:
