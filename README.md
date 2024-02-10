@@ -15,7 +15,7 @@ I am moderately proficient in the **Python** programming language for **general 
 * **Pandas** (For data cleaning, manipulation and analysis)
 * **Matplotlib** (For data visualization)
 * **Seaborn** (For data visualization)
-* **Scikit-Learn** (For implementing machine learning algorithms such as Regression, Classification and Clustering models)
+* **Scikit-Learn** (For training supervised and unsupervised learning models)
 * **Requests** (For sending HTTP requests)
 
 I am knowledgeable in other areas such as:
