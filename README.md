@@ -23,10 +23,8 @@ I am knowledgeable in other areas such as:
 * 📓 **Jupyter Notebook**  for creating interactive notebook documents
 * 🗄 Querying **SQL** databases such as **MySQL**, **PostgreSQL** and **SQL Server**
 * 📈 **Data Visualization software** such as **Power BI** and **Tableau** for creating visualizations, dashboards and reports
-* 🏭 **Data Integration software** such as **Azure Data Factory** for creating, maintaining and scheduling ETL (Extract-Transform-Load) processes
 * 💻 **Bash Scripting** and the **Linux Terminal**
 * 🤝 **Version Control** and **Collaboration** using **Git/GitHub**
-* 🔧 **Troubleshooting** and **diagnosing** hardware/software issues
 
 ## Hobbies/Interests:
 * 🎥 **Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
