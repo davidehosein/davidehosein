@@ -20,11 +20,11 @@ I am moderately proficient in the **Python** programming language for **general 
 
 I am knowledgeable in other areas such as:
 
-• 📓 Jupyter Notebook for creating interactive notebook documents
-• 🗄 Querying SQL databases such as MySQL, PostgreSQL and SQL Server
-• ❄️ Developing dimensional data models such as star and snowflake schemas for reporting
-• 📈 Power BI for creating visualizations, dashboards and reports
-• 🏭 Azure Data Factory for creating, maintaining and scheduling ELT processes
+* 📓 **Jupyter Notebook** for creating interactive notebook documents
+* 🗄 Querying **SQL** databases such as MySQL, PostgreSQL and SQL Server
+* ❄️ Developing **dimensional data models** such as star and snowflake schemas for reporting
+* 📈 **Power BI** for creating visualizations, dashboards and reports
+* 🏭 **Azure Data Factory** for creating, maintaining and scheduling ELT processes
 
 ## Hobbies/Interests:
 * 🎥 **Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
