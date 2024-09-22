@@ -11,10 +11,10 @@ I am a **Junior Data Analyst** with over 1 year of experience in developing comp
 I am moderately proficient in the **Python** programming language for **general scripting** and **task automation**, specifically in the following libraries:
 
 * **NumPy** (For utilizing high performance arrays)
+* **SciPy** (For performing scientific computations)
 * **Pandas** (For data cleaning, manipulation and analysis)
 * **Matplotlib** (For data visualization)
 * **Seaborn** (For data visualization)
-* **Scikit-Learn** (For training supervised and unsupervised learning models)
 * **Requests** (For sending HTTP requests)
 * **BeautifulSoup** (For parsing HTML content)
 
@@ -24,7 +24,7 @@ I am knowledgeable in other areas such as:
 * 🗄 Querying **SQL** databases such as MySQL, PostgreSQL and SQL Server
 * ❄️ Developing **dimensional data models** such as star and snowflake schemas for reporting
 * 📈 **Power BI** for creating visualizations, dashboards and reports
-* 🏭 **Azure Data Factory** for creating, maintaining and scheduling ELT processes
+* 🏭 **Azure Data Factory** for creating, maintaining and scheduling data integration processes
 
 ## Hobbies/Interests:
 * 🎥 **Movies**: Terminator 2, Pulp Fiction, Alien, Inception, The Dark Knight
