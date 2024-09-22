@@ -22,7 +22,7 @@ I am knowledgeable in other areas such as:
 
 * 📓 **Jupyter Notebook** for creating interactive notebook documents
 * 🗄 Querying **SQL** databases such as MySQL, PostgreSQL and SQL Server
-* ❄️ Developing **dimensional data models** such as star and snowflake schemas for reporting
+* ❄️ Developing **dimensional data models** such as star, snowflake and galaxy schemas for reporting
 * 📈 **Power BI** for creating visualizations, dashboards and reports
 * 🏭 **Azure Data Factory** for creating, maintaining and scheduling data integration processes
 
