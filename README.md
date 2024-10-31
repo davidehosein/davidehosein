@@ -12,7 +12,7 @@ I am moderately proficient in the **Python** programming language for **general 
 
 * **NumPy** (For utilizing high performance arrays)
 * **SciPy** (For performing scientific computations)
-* **Pandas** (For data cleaning, manipulation and analysis)
+* **Pandas** (For data cleaning, preprocessing and transformation)
 * **Matplotlib** (For data visualization)
 * **Seaborn** (For data visualization)
 * **Requests** (For sending HTTP requests)
