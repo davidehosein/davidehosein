@@ -11,10 +11,10 @@ I am a **Junior Data Analyst** with over 1 year of experience in developing comp
 I am moderately proficient in the **Python** programming language for **general scripting** and **task automation**, specifically in the following libraries:
 
 * **NumPy** (For utilizing high performance arrays)
+* **SciPy** (For performing scientific computations)
 * **Pandas** (For data cleaning, preprocessing and transformation)
 * **Matplotlib** (For data visualization)
 * **Seaborn** (For data visualization)
-* **Scikit-Learn** (For training supervised and unsupervised learning models)
 * **Requests** (For sending HTTP requests)
 * **BeautifulSoup** (For parsing HTML content)
 
