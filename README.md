@@ -11,8 +11,8 @@ I am a **Junior Data Analyst** with over 1 year of experience in developing comp
 I am moderately proficient in the **Python** programming language for **general scripting** and **task automation**, specifically in the following libraries:
 
 * **NumPy** (For utilizing high performance arrays)
-* **SciPy** (For performing scientific computations)
 * **Pandas** (For data cleaning, preprocessing and transformation)
+* **PandaSQL** (For executing SQL queries on Pandas Dataframes)
 * **Matplotlib** (For data visualization)
 * **Seaborn** (For data visualization)
 * **Requests** (For sending HTTP requests)
