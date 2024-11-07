@@ -12,9 +12,9 @@ I am moderately proficient in the **Python** programming language for **general 
 
 * **NumPy** (For utilizing high performance arrays)
 * **Pandas** (For data cleaning, preprocessing and transformation)
-* **PandaSQL** (For executing SQL queries on Pandas DataFrames)
 * **Matplotlib** (For data visualization)
 * **Seaborn** (For data visualization)
+* **Scikit-Learn** (For training supervised and unsupervised learning models)
 * **Requests** (For sending HTTP requests)
 * **BeautifulSoup** (For parsing HTML content)
 
