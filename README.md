@@ -15,8 +15,8 @@ I am moderately proficient in the **Python** programming language for **general 
 * **Seaborn** (For advanced data visualization)
 * **Scikit-Learn** (For training supervised and unsupervised learning models)
 * **Requests** (For sending HTTP requests)
-* **BeautifulSoup** (For parsing HTML content)
 * **OS** (For interacting with the operating system)
+* **datetime** (For manipulating dates and times)
 
 I am knowledgeable in other areas such as:
 
