@@ -8,17 +8,9 @@ Hello, my name is David Hosein and I'm from Trinidad and Tobago.
 
 I am a **Junior Data Analyst** with over 1 year of experience in developing complex **business intelligence** solutions for improving business processes.
 
-I am moderately proficient in the **Python** programming language for **general scripting** and **task automation**, specifically in the following libraries:
+I am moderately proficient in the **Python** programming language for **data analysis** and **task automation**.
 
-* **Pandas** (For data cleaning, preprocessing and transformation)
-* **Matplotlib** (For data visualization)
-* **Seaborn** (For advanced data visualization)
-* **Requests** (For sending HTTP requests)
-* **BeautifulSoup** (For parsing HTML content)
-* **OS** (For interacting with the operating system)
-* **datetime** (For manipulating dates and times)
-
-I am knowledgeable in other areas such as:
+Additionally, I am knowledgeable in other areas such as:
 
 * 📓 **Jupyter Notebook** for creating interactive notebook documents
 * 🗄 Querying **SQL** databases such as MySQL, PostgreSQL and SQL Server
