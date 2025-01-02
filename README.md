@@ -6,7 +6,7 @@
 
 Hello, my name is David Hosein and I'm from Trinidad and Tobago. 
 
-I am a **Junior Data Analyst** with over 1 year of experience in developing complex **business intelligence** solutions for improving business processes.
+I am a **Junior Data Analyst** with over 2 years of experience in developing complex **business intelligence** solutions for improving business processes.
 
 I am moderately proficient in the **Python** programming language for **data analysis** and **task automation**.
 
